@@ -42,7 +42,6 @@ span {
 	border-radius: 20px;
 	min-width: 30px;
 	position: absolute;
-	border: 2px solid green;
 	text-align: center;
 	
 	
@@ -54,42 +53,42 @@ span {
 }
 
 .col--1 {
-	top: 5px;
+	top: 10px;
 	left: 10px;
 }
 
 .col--2 {
-	top: 5px;
+	top: 10px;
 	left: 60px;	
 }
 
 .col--3 {
-	top: 5px;
+	top: 10px;
 	left: 110px;	
 }
 
 .col--4 {
-	top: 5px;
+	top: 10px;
 	left: 160px;	
 }
 
 .col--5 {
-	top:5px;
+	top: 10px;
 	left:210px
 }
 
 .col--6 {
-	top:5px;
+	top: 10px;
 	left:260px
 }
 
 .col--7 {
-	top:5px;
+	top: 10px;
 	left:310px
 }
 
 .col--8 {
-	top:5px;
+	top: 10px;
 	left:360px
 }
 
